@@ -100,7 +100,7 @@ ACTIVE_VOICE_FILTERS = {} # Tracks active audio filter per chat
 ACTIVE_VCOPY_SESSIONS = {} # Tracks active VCOPY voice copy/relay sessions per chat
 
 # Permanent Control Bot Configuration
-CONTROL_BOT_TOKEN = "8639526439:AAG2mqJ_devi61QpizibAxf52ewLG_zzsYQ"
+CONTROL_BOT_TOKEN = "9076582647:AAFvcBQQSvFHxsFggkn8Chgji9qRiath_a4"
 CONTROL_CLIENT = None
 
 # JioSaavn Base APIs
